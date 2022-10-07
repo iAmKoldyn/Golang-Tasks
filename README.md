@@ -1,9 +1,6 @@
 # Golang | Try
 
-x-special/nautilus-clipboard
-copy
-file:///home/iamkoldyn/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/golang.png
-
+![golang](https://user-images.githubusercontent.com/91592995/194668903-e499d1e6-6c73-437e-a11a-3714af641387.png)
 
 ### About
 
